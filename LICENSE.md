@@ -1,4 +1,4 @@
-# 
+# Enhance Logic Pro for macOS with best Logic Pro for macOS Script | motion-tracking + echo-removal, the #1 script. Includes motion-tracking and echo-removal for a smoother and more
 
 
 
